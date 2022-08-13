@@ -6,3 +6,4 @@
 ### Java安全漫谈 - 06.RMI篇(3)  [JavaSec-rmi03](https://github.com/decrypt0n/JavaSec-rmi03)
 ### Java安全漫谈 - 07.反序列化篇(1)  [JavaSec-ser01](https://github.com/decrypt0n/JavaSec-ser01)
 ### Java安全漫谈 - 08.反序列化篇(2)  [JavaSec-ser02](https://github.com/decrypt0n/JavaSec-ser02)
+### Java安全漫谈 - 09.反序列化篇(3)  [JavaSec-ser03](https://github.com/decrypt0n/JavaSec-ser03)
