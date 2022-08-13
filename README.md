@@ -7,3 +7,4 @@
 ### Java安全漫谈 - 07.反序列化篇(1)  [JavaSec-ser01](https://github.com/decrypt0n/JavaSec-ser01)
 ### Java安全漫谈 - 08.反序列化篇(2)  [JavaSec-ser02](https://github.com/decrypt0n/JavaSec-ser02)
 ### Java安全漫谈 - 09.反序列化篇(3)  [JavaSec-ser03](https://github.com/decrypt0n/JavaSec-ser03)
+### Java安全漫谈 - 10.反序列化篇(4)  [JavaSec-ser04](https://github.com/decrypt0n/JavaSec-ser04)
