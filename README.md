@@ -12,3 +12,4 @@
 ### Java安全漫谈 - 12.反序列化篇(6)  [JavaSec-ser06](https://github.com/decrypt0n/JavaSec-ser06)
 ### Java安全漫谈 - 13.Java中动态加载字节码的那些方法  [JavaSec-byteCode](https://github.com/d3rypt0n/JavaSec-byteCode)
 ### Java安全漫谈 - 14.为什么需要 CommonsCollections3  [JavaSec-CommonsCollections3](https://github.com/d3rypt0n/JavaSec-CommonsCollections3)
+### Java安全漫谈 - 15.为什么需要 TemplatesImpl_in_shiro  [TemplatesImpl_in_shiro](https://github.com/d3rypt0n/JavaSec-TemplatesImpl_in_shiro)
